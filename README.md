@@ -11,6 +11,6 @@
 
 ### Despre
 
-**RO-mesh** este o inițiativă creată in scopul promovării, suportului si alinierii utilizatorilor de tehnologii de rețele mesh LoRa în România. 
-<br>
+**RO-mesh** este o inițiativă creată in scopul promovării, suportului si alinierii utilizatorilor de tehnologii de rețele mesh LoRa în România.  
+
 În acest moment ne concentrăm pe două proiecte cheie: **[Meshtastic](https://meshtastic.org/)** și **[Meshcore](https://meshcore.co.uk/)**.
